@@ -49,6 +49,15 @@ Skilled software developer with a solid foundation in **Data Structures, Algorit
 
 ---
 
+## 💻 Competitive Programming
+
+Actively solving problems on competitive programming platforms to enhance problem-solving skills and algorithmic thinking.
+
+- **Codeforces**: Solving problems regularly, working to improve rating through consistent practice
+- **CodeChef**: Practicing Python implementations, participating in contests and challenges
+- **Focus Areas**: Data Structures, Algorithms, Dynamic Programming, Graph Theory
+- **Goal**: Continuously improving problem-solving speed and code efficiency
+
 ## 📂 Featured Projects
 
 ### **AtoZ.Place** - [Live](https://atoz.place)
